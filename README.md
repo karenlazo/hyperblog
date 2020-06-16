@@ -11,6 +11,7 @@ learning.
 - los flujos de github.
 - El verdadero amor por las buenas practicas .
 - Trucos muy locos del profesor .
+- cread por el increible platzi team.
 
 y con un amable recordatorio **Este readmi.md es un chiste** diseñado para el 
 ejemplo. SI LLEGAS ACA NO TE LO TOMES EN SERIO y mejor ve **a ver el curso**
