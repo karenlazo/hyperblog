@@ -13,6 +13,7 @@ learning.
 - Trucos muy locos del profesor .
 - cread por el increible platzi team.
 - Incluye ejemplos en windows, linux y mac
+- Disponible para todas las edades
 
 y con un amable recordatorio **Este readmi.md es un chiste** diseñado para el 
 ejemplo. SI LLEGAS ACA NO TE LO TOMES EN SERIO y mejor ve **a ver el curso**
